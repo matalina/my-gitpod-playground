@@ -1,2 +1,3 @@
-# my-gitpod-playground
-A blank repo to use boot up a gitpod playground for learning and testing
+# Text Adventure
+
+A repo to play with various bits and bobs to create a text adveture story/game
