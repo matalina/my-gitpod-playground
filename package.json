@@ -1,0 +1,26 @@
+{
+  "name": "my-gitpod-playground",
+  "version": "1.0.0",
+  "description": "A repo to play with various bits and bobs to create a text adveture story/game",
+  "main": "index.js",
+  "directories": {
+    "test": "jest --coverage"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matalina/my-gitpod-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matalina/my-gitpod-playground/issues"
+  },
+  "homepage": "https://github.com/matalina/my-gitpod-playground#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
